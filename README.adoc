@@ -1,3 +1,14 @@
-= Specs
+= Spezifikation und Projektplanung
 
-Specifications
+Hier wird der aktuelle Projektstand abgelegt. 
+
+Es soll enthalten:
+
+* UML Diagramme
+* Mustersatzung
+* Geschäftsordnungs-Dokumente
+
+Wer Interessa an Mitentwicklung und/oder zukünftigen Nutzung dieser Software hat, kann sich gern bei uns melden. Wir freuen uns über jeden Gleichgesinnten. 
+
+Kontakt: Stephanie 0172 572 65 72
+Oder einfach GitHub Tools verwenden.
