@@ -1,4 +1,4 @@
 **/*.vpp.bak_*
 **/.DS_Store
 **/*.lck
-
+**/*.vpp.vbak*
